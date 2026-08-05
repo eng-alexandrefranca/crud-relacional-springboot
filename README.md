@@ -4,7 +4,7 @@ Este é um projeto de API REST em Java utilizando Spring Boot, Spring Data JPA e
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Java 17** (ou a versão que você estiver usando)
+- **Java 25**
 - **Spring Boot 3.x**
 - **Spring Data JPA**
 - **MySQL Server**
